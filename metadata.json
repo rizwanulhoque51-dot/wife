@@ -1,0 +1,6 @@
+{
+  "name": "M.Rizwan-Privacy",
+  "description": "A premium, private, and secure app designed exclusively for couples to chat, share photos, and store memories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
